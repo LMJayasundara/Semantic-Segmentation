@@ -1,0 +1,25 @@
+name,r,g,b
+asphalt,192,192,192
+gravel,105,105,105
+soil,160,82,45
+sand,244,164,96
+bush,60,179,113
+forest,34,139,34
+low grass,154,205,50
+high grass,0,128,0
+misc. vegetation,0,100,0
+tree crown,0,250,154
+tree trunk,139,69,19
+building,1,51,73
+fence,190,153,153
+wall,0,132,111
+car,0,0,142
+bus,0,60,100
+sky,135,206,250
+misc. object   ,128,0,128
+pole,153,153,153
+traffic sign,255,255,0
+person,220,20,60
+animal,255,182,193
+ego vehicle ,220,220,220
+undefined,0,0,0
